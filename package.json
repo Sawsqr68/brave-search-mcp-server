@@ -37,7 +37,7 @@
     "inspector:http": "npx @modelcontextprotocol/inspector --transport http"
   },
   "dependencies": {
-    "@modelcontextprotocol/sdk": "1.24.2",
+    "@modelcontextprotocol/sdk": "1.32.1",
     "commander": "14.0.2",
     "dotenv": "17.2.3",
     "express": "5.2.1",
@@ -45,7 +45,7 @@
   },
   "devDependencies": {
     "@types/express": "5.0.5",
-    "@smithery/cli": "1.6.4",
+    "@smithery/cli": "4.11.1",
     "@types/node": "24.10.1",
     "prettier": "3.7.1",
     "shx": "0.4.0",
